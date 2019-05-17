@@ -46,6 +46,8 @@ I created a repository on GitHub and through commits using Cloud9 terminal I add
 
 I used HTML and CSS validator, and also JSHint for JavaScript to make sure there were no issues.
 
+I used Figma to create the wireframe.
+
 
 ##Credits
 Content
