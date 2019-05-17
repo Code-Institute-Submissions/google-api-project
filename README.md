@@ -1,8 +1,9 @@
-#Interactive Frontend Development Milestone Project
+# Interactive Frontend Development Milestone Project
+Built by **_Cecilia Barriga_**
 
 This is a Single-Page Application (SPA), that calls on the Google Maps API and the Google Places API to allow users to search for information about any city they are planning to travel to. 
 
-##UX
+## UX
 This website is intended for people who are are searching for all the information needed of the city they are planning to visit next. They are able to:
 Select a city
 Find tourist attractions
@@ -11,7 +12,7 @@ Find bars, restaurants and coffee shops
 
 I wanted to show images of different cities in the index page with a simple CTA, and then open a modal with the google maps search.
 
-##Features
+## Features
 I wanted to show images of different cities in the index page with a simple CTA button that when hovered the font becomes lightgray and has a pointer.
 Once the button is clicked then open the Google Maps modal;
 
@@ -22,26 +23,26 @@ If this icon is clicked, there will be a info window displayed with the name of 
 All the links from the Info Window will open in a new tab as the attribute target="_blank" was used.
 
 
-##Technologies Used
-HTML5 
-CSS3 
-JavaScript 
-Maps JavaScript API 
-Cloud9 IDE
-GitHub 
+## Technologies Used
+* HTML5 
+* CSS3 
+* JavaScript 
+* Maps JavaScript API 
+* Cloud9 IDE
+* GitHub 
 
 
-##Testing
+## Testing
 This site was tested in google dev tools including responsiveness on mobile devices and tablets.
 
-According to https://varvy.com/mobile/ 
+According to https://varvy.com/mobile/ the website scored 100/100 on being mobile friendly.
 
 Site was tested on the following browsers:
-Google Chrome
-Mozilla Firefox
+* Google Chrome
+* Mozilla Firefox
 
 
-##Deployment
+## Deployment
 I created a repository on GitHub and through commits using Cloud9 terminal I added the content.
 
 I used HTML and CSS validator, and also JSHint for JavaScript to make sure there were no issues.
@@ -49,13 +50,12 @@ I used HTML and CSS validator, and also JSHint for JavaScript to make sure there
 I used Figma to create the wireframe.
 
 
-##Credits
-Content
+## Content
 Most of the JavaScript has been taken from the Google Maps JavaScript API Documentation.
 The icons were taken from https://mapicons.mapsmarker.com/.
 
 
-##Acknowledgements
+## Acknowledgements
 Google Maps Platform Documentation
 Code Institute tutors
 Code Institute Mentor
