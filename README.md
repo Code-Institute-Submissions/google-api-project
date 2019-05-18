@@ -33,7 +33,7 @@ All the links from the Info Window will open in a new tab as the attribute targe
 
 
 ## Testing
-This site was tested in google dev tools including responsiveness on mobile devices and tablets.
+This site was tested in google dev tools including responsiveness on mobile devices and tablets, to make sure everything was working and that everything was shown the way it is supposed to be seen.
 
 According to https://varvy.com/mobile/ the website scored 100/100 on being mobile friendly.
 
@@ -41,14 +41,21 @@ Site was tested on the following browsers:
 * Google Chrome
 * Mozilla Firefox
 
+I tested the modal by opening and close it, to make sure it works.
+In the map modal I typed the city and selected from the deployed list by clicking it and also with the arrows and then enter to make sure both ways would work.
+I made sure all the locations (hotels, bars...) were working even if I changed a city.
+
+I did have a bug, which was when I typed a city no cities were deployed from the list, and I could not select any. It is now fixed, and my mentor helped me to fixed this. He realize that the modal-backdrop was on the top of it so using z-index we were able to bring the pac-container up.
 
 ## Deployment
-I created a repository on GitHub and through commits using Cloud9 terminal I added the content.
+I created a repository on GitHub and through commits using Cloud9 terminal I added the content with the following commands:
+- git add FILE NAME
+- git commit -m ""
+- git push https://github.com/cesole/google-api-project
 
 I used HTML and CSS validator, and also JSHint for JavaScript to make sure there were no issues.
 
 I used Figma to create the wireframe.
-
 
 ## Content
 Most of the JavaScript has been taken from the Google Maps JavaScript API Documentation.
